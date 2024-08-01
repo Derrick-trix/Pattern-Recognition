@@ -1,2 +1,2 @@
 # Pattern-Recognition
-Percptron, MLP, CNN using PyTorch
+Percptron, MLP, CNN, RNN using PyTorch & Tensorflow
